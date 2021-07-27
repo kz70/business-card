@@ -7,7 +7,7 @@ Personal business card app created in Flutter
 ## Flutter Features
 
 * Containers to lay out UI
-* Columns and Rows to position UI elements
-* Add custom fonts
-* Add Material icons
-* Style Text widgets
+* Columns and rows to position UI elements
+* Custom fonts
+* Material icons
+* Style text widgets
