@@ -2,7 +2,7 @@
 
 ## Overview
 
-Personal business card app
+Personal business card app created in Flutter
 
 ## Flutter Features
 
