@@ -2,7 +2,8 @@
 
 ## Overview
 
-Personal business card app created in Flutter
+- Personal business card app created in Flutter
+- Project from the London App Brewery Flutter course
 
 ## Flutter Features
 
